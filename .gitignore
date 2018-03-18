@@ -1,0 +1,13 @@
+dist
+node_modules
+.DS_Store
+jest
+nohup.out
+**.swp
+**.swo
+**.swn
+**.orig
+loggerDB*
+testDB*
+backup*
+build
